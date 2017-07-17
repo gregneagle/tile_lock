@@ -1,5 +1,5 @@
 #!/usr/bin/python
-approved_UUIDs     = ['9D410000-35D6-F4DD-BA60-E7BD8DC491C0'] # see line 64
+approved_UUIDs     = ['9D410000-35D6-F4DD-BA60-E7BD8DC491C0'] # see line 81
 path_to_lock_sound = 'ArmingChirp.mp3'
 path_to_warn_sound = 'CarAlarm.mp3'
 
