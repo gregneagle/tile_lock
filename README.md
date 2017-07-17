@@ -22,6 +22,8 @@ If you've already set up your Tile device, to play with this code:
 
 As written, this code will react to _any_ Tile device in range. It could be easily modified to react to only a specific Tile, but I'll leave that as an exercise for the reader. Some hints:
 
-  a) Uncomment line 81 to get the proximity UUID from your Tile.
-  b) Edit line 2 to replace the UUID there with yours.
-  c) Uncomment line 83; comment line 84.
+1) Uncomment line 81 to get the proximity UUID from your Tile.
+  
+2) Edit line 2 to replace the UUID there with yours.
+  
+3) Uncomment line 83; comment line 84.
