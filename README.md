@@ -6,7 +6,7 @@ PSU Mac Admin attendees got a Tile Mate in their "swag bag" -- this is a BTLE de
 
 https://www.thetileapp.com/en-us/products
 
-The Tile Mate device a button, so I wanted to see if I could modify Frogor's code to work with the Tile device.
+The Tile Mate device has a button, so I wanted to see if I could modify Frogor's code to work with the Tile device.
 
 I was mostly successful -- try it and see.
 
