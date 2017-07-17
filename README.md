@@ -14,6 +14,6 @@ If you've already set up your Tile device, to play with this code:
 
 3) Double-click the Tile logo on yout Tile Mate. Your Mac's screen should lock.
 
-4) Wait 10-15 seconds until the Tile Mate stops beeping, then double-click the logo again. If the screnn is still locked, a fake car alarm just go off.
+4) Wait 10-15 seconds until the Tile Mate stops beeping, then double-click the logo again. If the screen is still locked, a fake car alarm will go off.
 
 As written, this code will react to _any_ Tile device in range.
