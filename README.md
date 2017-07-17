@@ -1,6 +1,10 @@
 At Penn State Mac Admins 2017, Mike Lynn (aka frogor and pudquick) demonstrated something he built for the Hack-a-thon -- some code that reacts to a push-button Bluetooth beacon he obtained:
 
 https://gist.github.com/pudquick/9797a9ce8ad97de6e326afc7c9894965
+ 
+The Bluetooth beacon button @frogor used appears to be one of these:  
+https://proxidyne.com/products/bluetooth-devices/beacons/wearable-ibeacon/  
+https://store.proxidyne.com/collections/maker-products/products/button-magic  
 
 PSU Mac Admin attendees got a Tile Mate in their "swag bag" -- this is a BTLE device used to help people keep track of and locate items. 
 
